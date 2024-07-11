@@ -96,7 +96,7 @@
 #info {
     margin-top: 5%;
 }
-.smaller-image {
+#info .smaller-image {
    width: 300px;
     height: 200px;
     transition: transform 0.3s ease-in-out; /* Smooth transition on transform */
