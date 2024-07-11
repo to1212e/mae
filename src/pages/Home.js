@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 import myImage from "./img/DSC06710.png"
 import ibisImage from "./img/Messenger_creation_95cdbd9a-0fe9-4836-8d02-9984724ab697.jpeg"
-import vscodeImage from "./img/341046843_1260195034913568_2895044067018550442_n.jpg"
+import vscodeImage from "./img/IMG_20240711_095812_832.jpg"
 import gcbImage from "./img/Messenger_creation_fe543d36-b741-4334-99ca-8f364a1077f9.png"
 const Home = () => {
   return (
@@ -63,21 +63,21 @@ const Home = () => {
               <div className="card p-5 shadow" style={{ border: "2px solid pink" }}>
                 <img src={ibisImage} alt="IbisPaintX" className="smaller-image" />
                 <h4 className="text-center title"><b>Mobile Legend</b></h4>
-                <p>A platform for reading and sharing stories across various genres.</p>
+                <p>Mobile Legend is a popular MOBA game Known for its fast-paced battles, diverse hero roster.</p>
               </div>
             </div>
             <div className="col-lg mb-3">
               <div className="card p-5 shadow" style={{ border: "2px solid pink" }}>
                 <img src={vscodeImage} alt="Visual Studio Code" className="smaller-image" />
-                <h4 className="text-center title"><b>Jonaxx</b></h4>
-                <p>Known for captivating romantic novels with compelling characters.</p>
+                <h4 className="text-center title"><b>Wattpad</b></h4>
+                <p>Wattpad is a vibrant platform where writers can share thier stories and connect with readers.</p>
               </div>
             </div>
             <div className="col-lg mb-3">
               <div className="card p-5 shadow" style={{ border: "2px solid pink" }}>
                 <img src={gcbImage} alt="Gaming Center Base" className="smaller-image" />
                 <h4 className="text-center title"><b>Bootstrap</b></h4>
-                <p>A platform for discovering and reading romance stories.</p>
+                <p>Bootstrap is a popular front-end framework used for Developing responsive and Mobile-first websites.</p>
               </div>
               
             </div>
